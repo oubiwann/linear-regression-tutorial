@@ -2,3 +2,4 @@
 .sw[po]
 __pycache__
 .venv*
+notebooks/.ip*
