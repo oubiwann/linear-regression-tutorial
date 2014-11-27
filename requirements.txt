@@ -1,0 +1,8 @@
+hy
+hymagic
+numpy
+cytoolz
+multipledispatch
+matplotlib
+seaborn
+ipython[notebook]
