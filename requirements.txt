@@ -4,5 +4,13 @@ numpy
 cytoolz
 multipledispatch
 matplotlib
+#ipython[notebook]
+jsonschema
+pyzmq
+jinja2
+tornado
+scipy
+pandas
 seaborn
-ipython[notebook]
+git+git://github.com/ipython/ipython.git
+git+git://github.com/bollwyvl/hy_kernel.git
